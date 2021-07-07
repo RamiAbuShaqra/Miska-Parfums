@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Miska Parfums</string>
+
+    <string name="shopping_cart">Shopping Cart</string>
+
+    <!-- Tabs text -->
+    <string name="products">Products</string>
+    <string name="order">Order</string>
+    <string name="follow_us">Follow Us</string>
+
+</resources>

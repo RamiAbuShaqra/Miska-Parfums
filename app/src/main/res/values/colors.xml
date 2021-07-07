@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="golden_brown">#716248</color>
+    <color name="golden_brown_dark">#453820</color>
+    <color name="blue_grey_600">#546e7a</color>
+    <color name="blue_grey_dark">#29434e</color>
+    <color name="orange">#FFA500</color>
+    <color name="grey">#e0e0e0</color>
+    <color name="black_transparent">#AA000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
